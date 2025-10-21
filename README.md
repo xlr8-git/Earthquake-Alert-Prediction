@@ -1,6 +1,6 @@
 # Earthquake Alert Prediction
 
-A Machine Learning-based system to predict earthquake alerts using Random Forest. Includes preprocessing, trained models, a Flask API, and a Streamlit frontend.
+A Machine Learning-based system to predict earthquake alerts using Random Forest. Includes preprocessing, trained models,Flask API, and a Streamlit frontend.
 
 ## Files
 
