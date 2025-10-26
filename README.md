@@ -17,7 +17,7 @@ A Machine Learning-based system to predict earthquake alerts using Random Forest
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/xlr8-git.git
+https://github.com/xlr8-git/Earthquake-Alert-Prediction/
 cd xlr8-git
 python -m venv venv
 # Activate virtual environment
